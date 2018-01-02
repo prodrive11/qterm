@@ -1,3 +1,4 @@
-# q_stuff
-q/kdb+ libraries utils etc
+# qterm
+q/kdb+ terminal utilities
+ * progress bar
 
